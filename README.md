@@ -1,5 +1,7 @@
 # ESP32 Smart Parking System
+## Project Simulation
 
+![ESP32 Smart Parking System](simulation.png)
 A smart parking prototype developed using ESP32 and Arduino C++,
 designed and tested in the Wokwi simulator.
 
